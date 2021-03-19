@@ -1,13 +1,13 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2021-03-10'
+title: 'Software Engineer(intern)'
+company: 'Pioneer Alpha'
+location: 'Dhaka, Bangladesh'
+range: 'Nov 2020 - Present'
+url: 'https://pioneeralpha.com/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Write modern, performant, maintainable code for a diverse array of client and internal projects
+- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Nodejs, Laravel,WordPress
+- Work with cloud AWS (EC2, S3 Bucket,Amazon Cognito,AWS Lambda)
+- Work as a Sub-lead [@AmariSchool](https://amarischool.com/) Web development Project

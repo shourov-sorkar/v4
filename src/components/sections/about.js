@@ -132,7 +132,15 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'HTML & (S)CSS',
+    'React',
+    'Vue',
+    'Node.js',
+    'WordPress',
+    'AWS',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -140,7 +148,7 @@ const About = () => {
 
       <div className="inner">
         <StyledText>
-          <div>
+          <div className="about-text">
             <p>Hello! I'm Showrav, a software engineer based in Dhaka, Bangladesh.</p>
 
             <p>

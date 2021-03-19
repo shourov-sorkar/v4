@@ -1,14 +1,13 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'Amarischoool'
+cover: './join.png'
+github: 'https://github.com/shourov-sorkar/#'
+external: 'https://join.amarischool.com/'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - React.js
+  - Laravel
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+Amar iSchool Career Page with React.js and Laravel.
