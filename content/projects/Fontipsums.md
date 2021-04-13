@@ -1,12 +1,13 @@
 ---
-date: '2016-01-01'
-title: 'Fontipsums'
-github: 'https://github.com/bchiang7/fontipsums/'
-external: 'http://bchiang7.github.io/fontipsums/'
+date: '2020-01-01'
+title: 'Titanic Dataset'
+github: 'https://github.com/shourov-sorkar/titanic_dataset'
+external: ''
 tech:
-  - HTML
-  - SCSS
+  - Python
+  - Data Science
+  - Data Analysis
 showInProjects: true
 ---
 
-Simple website to display some of my favorite font pairings combined with some fun lorem ipsum variations found on the web.
+Here I analyse the data for titanic dataset and made a prediction model.

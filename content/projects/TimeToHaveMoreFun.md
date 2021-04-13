@@ -1,14 +1,14 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'Covid Update App'
+github: 'https://github.com/shourov-sorkar/get-covid-data-in-python'
+external: ''
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - Python
+  - worldmeter api
+  - Johns Hopkins University API
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+Building a application using python to get the covid-19 update. Here I fetch data from Johns Hopkins University API.

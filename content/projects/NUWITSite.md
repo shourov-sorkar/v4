@@ -1,13 +1,14 @@
 ---
-date: '2015-12-20'
-title: 'NU Women in Tech'
-github: 'https://github.com/nuwit/website'
-external: 'https://nuwit.ccs.neu.edu/'
+date: '2019-12-20'
+title: 'Age Calculator'
+github: 'https://github.com/shourov-sorkar/age_calculator'
+external: ''
 tech:
-  - Jekyll
-  - Bootstrap
-company: 'Northeastern'
+  - HTML
+  - CSS
+  - JAVASCRIPT
+company: ''
 showInProjects: true
 ---
 
-Complete overhaul and redesign of NU Women in Tech's club website using Jekyll, built while serving as web chair on the e-board.
+This is simple calculator application that can calculate the age. i made this app using JavaScript.

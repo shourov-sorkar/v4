@@ -1,12 +1,12 @@
 ---
-date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+date: '2020-12-29'
+title: 'Invisible Cloak'
+github: 'https://github.com/shourov-sorkar/Invisible-Cloak'
+external: ''
 tech:
-  - Vue
-  - Firebase
+  - Python
+
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+A simple python app that can inbisible any object with a specific color. i made this application for learning python.

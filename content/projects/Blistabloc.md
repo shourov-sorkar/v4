@@ -1,14 +1,14 @@
 ---
-date: '2018-05-01'
-title: 'blistabloc'
-github: ''
-external: 'https://blistabloc.com/'
+date: '2020-05-01'
+title: 'Todo App'
+github: 'https://github.com/shourov-sorkar/todo'
+external: ''
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
-showInProjects: false
+  - Reactjs
+  - Redux
+  - React-Bootstrap
+company: ''
+showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+I made this app for learning and Implements React-Redux

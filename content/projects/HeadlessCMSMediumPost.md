@@ -1,15 +1,13 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+date: '2018-7-12'
+title: 'BUS Ticket Reservation System'
+github: 'https://github.com/shourov-sorkar/bus_ticket_reservation'
+external: ''
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - C++
+
+company: 'IUBAT'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Building a application using C++. I made this project for my university course.

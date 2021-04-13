@@ -1,13 +1,14 @@
 ---
 date: '3'
-title: 'Amarischoool'
-cover: './join.png'
-github: 'https://github.com/shourov-sorkar/#'
-external: 'https://join.amarischool.com/'
+title: 'Jobs Searching App'
+cover: './job-portal.PNG'
+github: 'https://github.com/shourov-sorkar/Github-jobs-app'
+external: '#'
 tech:
   - React.js
   - Laravel
+  - Github Jobs API
 showInProjects: true
 ---
 
-Amar iSchool Career Page with React.js and Laravel.
+This is the simple job search applicatin, where I use Reactjs and Github Jobs API.Packages I use here (axios,react-bootstrap,react-router-dom)
