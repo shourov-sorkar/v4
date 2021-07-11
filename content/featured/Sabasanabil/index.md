@@ -6,6 +6,8 @@ github: '#'
 external: 'http://demo.sabasanabil.org/'
 tech:
   - Laravel
+  - Ajax
+  - JavaScript
   - MySQL
   - Vs Code
 showInProjects: true

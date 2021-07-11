@@ -6,6 +6,8 @@ github: '#'
 external: 'https://organicfishnfresh.com/'
 tech:
   - Laravel
+  - Vuejs
+  - Ajax
   - MySQL
   - Vs Code
 showInProjects: true
