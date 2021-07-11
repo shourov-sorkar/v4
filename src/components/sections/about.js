@@ -133,10 +133,12 @@ const About = () => {
   }, []);
 
   const skills = [
+    'Laravel',
     'JavaScript (ES6+)',
     'HTML & (S)CSS',
-    'React',
-    'Vue',
+    'Angular js',
+    'React js',
+    'Vue js',
     'Node.js',
     'WordPress',
     'AWS',
@@ -162,9 +164,9 @@ const About = () => {
               <a href="https://iubat.edu/">
                 International University of Business Agriculture and Technology
               </a>
-              , I joined the engineering team at{' '}
-              <a href="https://pioneeralpha.com/">Pioneer Alpha</a> where I work on a wide variety
-              of interesting and meaningful projects on a daily basis.
+              , I joined the engineering team at <a href="https://implevista.com/">Implevista BD</a>{' '}
+              as Asst. Software Engineer where I work on a wide variety of interesting and
+              meaningful projects on a daily basis.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

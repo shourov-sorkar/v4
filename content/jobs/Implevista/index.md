@@ -1,6 +1,6 @@
 ---
 date: '2021-07-11'
-title: 'Jr Software Engineer'
+title: 'Asst. Software Engineer'
 company: 'Implevista Bd'
 location: 'Dhaka, Bangladesh'
 range: 'Apr 2021 - Present'
